@@ -18,7 +18,7 @@ def find_min_in_nested_arrays(src)
   low_temps
 end
 
-#or 
+#or
 def find_min_in_nested_arrays(src)
   outer_count = 0
   low_temps = []
